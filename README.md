@@ -2,7 +2,7 @@
 
 Il materiale per il colloquio orale è suddiviso in due sezioni. La prima contiene il codice usato per l'approssimazione degli integrali mentre la seconda contiene il codice usato per l'approssimazione del valore di pi greco.
 
-'''
+```
 +-- integrali
 |   |
 |   |- main.cpp //file contenente tutti i metodi studiati
@@ -17,4 +17,4 @@ Il materiale per il colloquio orale è suddiviso in due sezioni. La prima contie
 |       |
 |       |- main.cpp // file C++ usato per creare i file .csv
 |       |- plot.py // file Python usato per creare e salvare i grafici .png
-'''
+```
